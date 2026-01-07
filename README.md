@@ -26,12 +26,12 @@ Hospital data is scattered across multiple systems, making it difficult to:
 - DAX
 
 ## 📊 Key KPIs
-- Total Patients
-- Total Doctors
-- Total Admissions
-- Average Length of Stay
-- Average Billing Amount
-- Billing by Insurance
+- Total Patients : 28K
+- Total Doctors : 22K
+- Total Admissions : 28K
+- Average Length of Stay : 15.48
+- Average Billing Amount : 25.47K
+- Billing by Insurance : 706.20M
 
 ## 📈 Dashboard Features
 - Interactive slicers (Hospital, Year, Doctor, Gender, Admission Type)
@@ -61,5 +61,6 @@ Hospital data is scattered across multiple systems, making it difficult to:
 - Enhanced billing visibility
 
 
-**Vishal Panchal**  
-Aspiring Data Analyst | Power BI | SQL | Excel
+## Repository Structure
+- Image : <img width="1747" height="806" alt="Dashboard Image1" src="https://github.com/user-attachments/assets/20b079b6-033c-460d-a989-b1234c913319" />
+
