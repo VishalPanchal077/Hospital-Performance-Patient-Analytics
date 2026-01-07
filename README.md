@@ -62,5 +62,8 @@ Hospital data is scattered across multiple systems, making it difficult to:
 
 
 ## Repository Structure
-- Image : <img width="1747" height="806" alt="Dashboard Image1" src="https://github.com/user-attachments/assets/20b079b6-033c-460d-a989-b1234c913319" />
+- Dataset : https://github.com/VishalPanchal077/Hospital-Performance-Patient-Analytics/blob/main/Hospital_Performance_rowdata.csv
+- Image 1 : <img width="1747" height="806" alt="Dashboard Image1" src="https://github.com/user-attachments/assets/20b079b6-033c-460d-a989-b1234c913319" />
+- Image 2 : <img width="1736" height="805" alt="Dashboard Image2" src="https://github.com/user-attachments/assets/cd9bd432-2698-440f-b082-1d564142b026" />
+
 
